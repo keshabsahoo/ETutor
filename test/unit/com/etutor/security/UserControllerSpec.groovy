@@ -1,4 +1,6 @@
-package com.doctrz.security
+package com.etutor.security
+
+import com.etutor.security.UserController;
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification

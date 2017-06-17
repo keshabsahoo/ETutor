@@ -1,4 +1,4 @@
-package com.doctrz.security
+package com.etutor.security
 
 class UserController {
 
